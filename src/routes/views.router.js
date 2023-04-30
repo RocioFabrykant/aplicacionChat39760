@@ -7,3 +7,5 @@ router.get('/', (req,res)=>{
 });
 
 export default router;
+
+//renderizar vista del chat
